@@ -1,4 +1,4 @@
-# Foobar
+# MySQLScripter
 
 This is a simple console tool for scripting out objects from MySQL (one file per object).
 
